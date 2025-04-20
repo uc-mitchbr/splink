@@ -1,5 +1,5 @@
 # Start from a Python 3.7.10 base image
-FROM python:3.7.10
+FROM python:3.13.3
 
 # Set the working directory in the docker image
 WORKDIR /app
